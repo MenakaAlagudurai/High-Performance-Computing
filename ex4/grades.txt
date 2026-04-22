@@ -1,0 +1,5 @@
+Menaka 1 Total=423 Grade=B
+Meena 2 Total=350 Grade=C
+Mari 3 Total=455 Grade=A
+Naga 4 Total=292 Grade=D
+Priya 5 Total=417 Grade=B
